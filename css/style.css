@@ -1,7 +1,7 @@
 /* Para 320px */  
 @media only screen and (max-width: 340px) and (min-width: 5px)  {  
   h1{
-    font-size:100%;
+    font-size:50px;
   }
   
 } 
