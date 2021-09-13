@@ -347,13 +347,13 @@ img {
 }
 @media (max-width: 768px){
 .text-fixed span {
-    width: 70%;
+    width: 100%;
     font-size: 15px;
     line-height: 24px;
 }
 }
 .text-fixed span {
-    width: 40%;
+    width: 100%;
     background-color: #fffffff0;
     padding: 20px;
     margin: 0 40px;
@@ -363,14 +363,14 @@ img {
 @media (max-width: 768px){
 .text-fixed span {
     margin: 0;
-    width: 90%;
+    width: 100%;
     padding: 30px;
     font-size: 12px;
     line-height: 1.6;
 }
 }
 .text-fixed span {
-    width: 60%;
+    width: 100%;
     background-color: #fff;
     padding: 40px;
     margin: 0 40px;
@@ -384,13 +384,13 @@ img {
 }
 @media (max-width: 768px){
 .text-fixed span {
-    width: 70%;
+    width: 100%;
     font-size: 15px;
     line-height: 24px;
 }
 }
 .text-fixed span {
-    width: 40%;
+    width: 100%;
     background-color: #fffffff0;
     padding: 20px;
     margin: 0 40px;
@@ -401,14 +401,14 @@ img {
 {
 .text-fixed span {
     margin: 0;
-    width: 90%;
+    width: 100%;
     padding: 30px;
     font-size: 14px;
     line-height: 1.6;
 }
 }
 .text-fixed span {
-    width: 60%;
+    width: 100%;
     background-color: #fff;
     padding: 40px;
     margin: 0 40px;
