@@ -1,4 +1,12 @@
- 
+/* Para 320px */  
+@media only screen and (max-width: 340px) and (min-width: 5px)  {  
+  h1{
+    font-size:100%;
+  }
+  
+} 
+
+
 
 p{
     font-family: allerregular;
@@ -113,6 +121,7 @@ h4{
 .centrada{
   text-align: center;
   font-size: medium;
+  vertical-align: center;
 }
 
 img{
