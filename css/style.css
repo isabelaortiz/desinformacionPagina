@@ -7,10 +7,9 @@
 } 
 
 
-
 p{
-    font-family: allerregular;
-    color: blue; 
+  font-family: 'Lato', sans-serif;
+    color: #444444; 
     text-align: justify;
     text-justify: inter-word;
 }
@@ -34,7 +33,7 @@ hr {
 }
 
 h2{
-  font-family: allerregular;
+  font-family: victor_monosemibold_oblique; 
     color: blue; 
     
     font-size: x-large;
@@ -549,8 +548,9 @@ img {
 .dot {
   height: 200px;
   width: 200px;
-  background-color: blue;
+  background-color:#FB301C;
   border-radius: 50%;
   display: inline-block;
+  left: 1000px; 
 }
 
